@@ -4,11 +4,11 @@ import time
 import string
 import random
 
-user = "h4h4-1"
-pw = "123door"
-prawWords = ['rito']
-customsub = "ThePiickleBotSub"
-customcomment = "rito XD rito XD rito XD rito XD rito XD rito XD rito XD rito XD rito XD rito XD"
+user = ""
+pw = ""
+prawWords = ['']
+customsub = ""
+customcomment = ""
 
 apistring = ''.join(random.choice(string.ascii_uppercase + string.digits) for _ in range(10))
 
